@@ -8,9 +8,10 @@ We are working with a dataset from SyriaTel providing records for over 3,300 acc
 
 Day charge, customer service calls, and international plan all seem to play a role in churn.
 
+![image](https://github.com/user-attachments/assets/43a1044f-3559-4e2d-9e5e-08b2d3f0260a)
 
 
-https://github.com/sfp13VA/SyriaTel_Customer_Churn/blob/main/images/churn_by_CScalls.jpeg
+![image](https://github.com/user-attachments/assets/fdd359db-b0a7-4f92-ad8d-eef7456e10b4)
 
 
 # Modeling and Evaluation
@@ -21,7 +22,8 @@ We chose recall to evaluate our models as it minimizes false negative outcomes, 
 
 Our model confirmed that charges and customer service calls were important features for churn.
 
-https://github.com/sfp13VA/SyriaTel_Customer_Churn/blob/main/images/importance.jpeg
+![image](https://github.com/user-attachments/assets/91b3bddb-e08d-472b-b5b9-e61a147fe81c)
+
 
 # Conclusion
 
